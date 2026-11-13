@@ -42,7 +42,7 @@ public class TesteWeb {
     }
 
     public String getTitulo() {
-        return "Nome do usuário";
+        return getTitulo();
     }
 
 
